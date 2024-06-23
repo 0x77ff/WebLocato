@@ -9,7 +9,3 @@
 <div align="center">
   <h3>A Fake website that can grab your **EXACT** location. Made in python and html.</h3>
 </div>
-
-<div align="center">
-  <h4>Feel free to contribute with new website designs!</h4>
-</div>
