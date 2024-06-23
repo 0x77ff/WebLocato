@@ -6,3 +6,8 @@
   <h1>WebLocato</h1>
 </div>
 
+[![Star on GitHub](https://img.shields.io/github/stars/TurtlesXD/WebLocato.svg?style=social)](https://github.com/TurtlesXD/WebLocato/stargazers)
+[![Watch on GitHub](https://img.shields.io/github/watchers/TurtlesXD/WebLocato.svg?style=social)](https://github.com/TurtlesXD/WebLocato/watchers)
+[![Issues on GitHub](https://img.shields.io/github/issues/TurtlesXD/WebLocato.svg?style=social)](https://github.com/TurtlesXD/WebLocato/issues)
+
+A Fake website that can grab your **EXACT** location with geolocation API.
